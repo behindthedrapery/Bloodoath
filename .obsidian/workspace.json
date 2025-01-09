@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "156d7cf7752cf712",
+        "id": "080f943941cd2993",
         "type": "tabs",
         "children": [
           {
-            "id": "777bb55a05f3b332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "руководства и советы/(Как не сделать Мэри Сью).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Как не сделать Мэри Сью)"
-            }
-          },
-          {
-            "id": "da28db3b797e2f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сценарий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сценарий"
-            }
-          },
-          {
-            "id": "8e552a356b5447ae",
+            "id": "4c121720ab8ce9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Черновик"
             }
+          },
+          {
+            "id": "6574ef8c01c75e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сценарий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сценарий"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,15 +176,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "da28db3b797e2f5d",
+  "active": "4c121720ab8ce9c5",
   "lastOpenFiles": [
+    "Сценарий.md",
+    "Черновик.md",
+    "руководства и советы/(Как не сделать Мэри Сью).md",
     "Сюжет.md",
     "Саша.md",
-    "Сценарий.md",
     "README.md",
-    "Черновик.md",
     "руководства и советы/Детали характера.md",
-    "руководства и советы/(Как не сделать Мэри Сью).md",
     "Без названия 1",
     "Без названия",
     "руководства и советы"
