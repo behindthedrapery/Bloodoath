@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История.md",
+                "file": "Эпизоды/1. Знакомство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "История"
+              "title": "1. Знакомство"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История.md",
+                "file": "Эпизоды/1. Знакомство.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура История"
+              "title": "Структура 1. Знакомство"
             }
           }
         ],
@@ -180,8 +180,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b056a23d9fcea3a3",
+  "active": "507503b9c75d306c",
   "lastOpenFiles": [
+    "Эпизоды",
     "README.md",
     "Черновик.md",
     "Сюжет.md",
@@ -190,7 +191,7 @@
     "Правки.md",
     "руководства и советы/Подсказки к Анализу текста.md",
     "руководства и советы/Правила.md",
-    "История.md",
+    "Эпизоды/1. Знакомство.md",
     "Персонажи/Саша.md",
     "Мир/Другой мир.md",
     "Персонажи",
