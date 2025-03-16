@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "080f943941cd2993",
+        "id": "0e98886ad1d65c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "b056a23d9fcea3a3",
+            "id": "a28d1777bb1b4a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "1. Знакомство"
-            }
-          },
-          {
-            "id": "595135c0d2e8e546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Черновик.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Черновик"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "1fa316c88e7fe6ab",
@@ -168,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +166,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "507503b9c75d306c",
+  "active": "a28d1777bb1b4a97",
   "lastOpenFiles": [
-    "Эпизоды",
     "README.md",
     "Черновик.md",
     "Сюжет.md",
     "Структура, вопросы к сценарию.md",
     "Саша сама пришла в Гараж.md",
+    "Эпизоды/1. Знакомство.md",
+    "Эпизоды",
     "Правки.md",
     "руководства и советы/Подсказки к Анализу текста.md",
     "руководства и советы/Правила.md",
-    "Эпизоды/1. Знакомство.md",
+    "История.md",
     "Персонажи/Саша.md",
     "Мир/Другой мир.md",
     "Персонажи",
